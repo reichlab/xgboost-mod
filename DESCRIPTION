@@ -1,4 +1,4 @@
-Package: xgboost
+Package: xgboost.mod
 Type: Package
 Title: Extreme Gradient Boosting
 Version: 0.4-4
